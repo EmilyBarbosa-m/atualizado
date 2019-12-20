@@ -1,0 +1,22 @@
+*{
+   margin: 0;
+    padding: 0;
+}
+thead{
+    width: 40vw;
+    border:2px black solid;
+
+}
+th {
+    width: 40vw;
+}
+td {
+    width: 40vw;
+}
+/* div {
+    margin-top: 4em;
+    width:100%;
+}
+.btn-warning a  {
+font-size: 
+} */
